@@ -6,7 +6,7 @@ langchain-community==0.2.6
 langchain-core==0.2.11
 langchain-openai==0.1.14
 langchain-text-splitters==0.2.2
-openai==1.35.9
+openai==0.28
 pandas==2.2.2
 python-dotenv==1.0.1
 requests==2.32.3
