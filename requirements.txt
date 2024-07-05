@@ -13,3 +13,4 @@ requests-oauthlib==2.0.0
 shapely==2.0.4
 streamlit==1.36.0
 streamlit-folium==0.21.0
+langchain-community==0.2.6
